@@ -37,19 +37,28 @@ Initially, the course will be entirely Python-based, but will blend into CALPHAD
 Everything should be able to be completed on any personal computer except performing DFT calculations with atomate, which currently requires the use of VASP. Because atomate is run on HPCs through a queue, usage will be limited to a single assignment and other DFT assignments will provide raw data as if they were from DFT. Other usage information is directed to the `official atomate documentation`_.
 
 1. Assignment 1: Getting started in Git
-  * Scopatz and Huff: chapter 1 and 2 (and install Python, preferably Anaconda_)
-  * Scopatz and Huff: chapters 15, 16
-#. Assignment 2: Contributing to open-source software
-  * Scopatz and Huff: chapter 21
-#. Assignment 3: Introduction to pymatgen
-  * Scopatz and Huff: chapters 3-6
-  * Sholl and Steckel: chapters 1 and 2
-#. Assignment 4: atomate (Warning: long and requires HPC)
-  * Sholl and Steckel: chapter 3
-#. Assignment 5: Energies with pycalphad
-  * Scopatz and Huff: chapter 7 and 9
-  * xarray_ Overview, FAQ, and do examples
-  * Liu
+
+   * Scopatz and Huff: chapter 1 and 2 (and install Python, preferably Anaconda_)
+   * Scopatz and Huff: chapters 15, 16
+
+2. Assignment 2: Contributing to open-source software
+
+   * Scopatz and Huff: chapter 21
+
+3. Assignment 3: Introduction to pymatgen
+
+   * Scopatz and Huff: chapters 3-6
+   * Sholl and Steckel: chapters 1 and 2
+
+4. Assignment 4: atomate (Warning: long and requires HPC)
+
+   * Sholl and Steckel: chapter 3
+  
+5. Assignment 5: Energies with pycalphad
+
+   * Scopatz and Huff: chapter 7 and 9
+   * xarray_ Overview, FAQ, and do examples
+   * Liu
 
 
 .. _official atomate documentation: http://pythonhosted.org/atomate/
