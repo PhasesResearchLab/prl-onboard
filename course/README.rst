@@ -54,16 +54,21 @@ Everything should be able to be completed on any personal computer except perfor
 
    * Sholl and Steckel: chapter 3
   
-5. Assignment 5: Energies with pycalphad
+5. Assignment 5: Introduction to pycalphad
 
    * Scopatz and Huff: chapter 7 and 9
    * xarray_ Overview, FAQ, and do examples
    * Liu
 
+6. Assignment 6: Make a contriubtion to pycalphad
+
+   * Scopatz and Huff: chapters 17-19
+   * `reStructuredText reference`_
 
 .. _official atomate documentation: http://pythonhosted.org/atomate/
 .. _Anaconda: https://www.continuum.io
 .. _xarray: http://xarray.pydata.org
+.. _reStructuredText reference: http://restructuredtext.readthedocs.io
 
 Tips
 ====
