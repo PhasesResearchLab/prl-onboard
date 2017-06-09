@@ -20,9 +20,11 @@ Tasks
    a. Include a functioning link to the PRL course website
    #. Use section header reStructuredText formatting where appropriate
 
-#. Commit and push your README to GitHub
+#. Commit and push your README to GitHub. Read Chris Beams's article on `writing good commit messages`_.
 
 Keep all of your code that you write for exercises and assignments here, committing and pushing often.
+
+
 Resources
 =========
 
@@ -36,4 +38,4 @@ Read the solutions for answers to some FAQ about setting up your environment and
 .. _GitHub help pages: https://help.github.com
 .. _reStructuredText primer: http://docutils.sourceforge.net/docs/user/rst/quickstart.html
 .. _reStructuredText reference: http://docutils.sourceforge.net/docs/user/rst/quickref.html
-
+.. _writing good commit messages: https://chris.beams.io/posts/git-commit/
