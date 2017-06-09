@@ -23,9 +23,10 @@ Tasks
 #. Commit and push your README to GitHub
 
 Keep all of your code that you write for exercises and assignments here, committing and pushing often.
-
 Resources
 =========
+
+Read the solutions for answers to some FAQ about setting up your environment and commiting with git
 
 * `GitHub help pages`_
 * `reStructuredText primer`_
