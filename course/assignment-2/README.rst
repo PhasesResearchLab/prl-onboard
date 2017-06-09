@@ -21,7 +21,7 @@ Tasks
    #. Try to understand what each file is for: e.g. Model.py is for representing the model of each phase as a polynomial with the SymPy library. Don't worry if you don't understand the packages and what is actually going on.
    #. Stop when you've found a couple typos
 
-#. Commit and push your changes to your fork
+#. Commit and push your changes to your fork. Use `good messages`_ and follow the pycalphad conventions by prepending the subject with ``DOC:``
 #. Open a pull request on GitHub from your 'fix-typos'  onto the pycalphad develop branch
 #. Use GitHub to request @bocklund to review the PR
 #. Fix any feedback with either new commits or by changing the old ones as appropriate. For changing your old commits, you can either use `git commit --amend` or commit regularly and use interactive rebasing to squash additional commits together 
@@ -37,6 +37,7 @@ Resources
 
 .. _Create a GitHub account: https://github.com
 .. _pycalphad repository: https://github.com/pycalphad/pycalphad
+.. _good messages: https://chris.beams.io/posts/git-commit/
 .. _git - the simple guide: http://git.huit.harvard.edu/guide/
 .. _git merge vs rebase: https://www.atlassian.com/git/tutorials/merging-vs-rebasing
 .. _Git book: https://git-scm.com/book/en/v2
