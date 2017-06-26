@@ -33,9 +33,11 @@ Read the solutions for answers to some FAQ about setting up your environment and
 * `GitHub help pages`_
 * `reStructuredText primer`_
 * `reStructuredText reference`_
+* The `Visual git guide`_ may be too complicated initally, but good to come back to later
 
 .. _Create a GitHub account: https://github.com
 .. _GitHub help pages: https://help.github.com
 .. _reStructuredText primer: http://docutils.sourceforge.net/docs/user/rst/quickstart.html
 .. _reStructuredText reference: http://docutils.sourceforge.net/docs/user/rst/quickref.html
 .. _writing good commit messages: https://chris.beams.io/posts/git-commit/
+.. _Visual git guide: http://marklodato.github.io/visual-git-guide/index-en.html
