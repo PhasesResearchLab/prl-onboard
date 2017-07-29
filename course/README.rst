@@ -25,7 +25,19 @@ As you go through Scopatz and Huff, try to do all of the exercises. The code exa
 
 The calculation exercises are not necessary in Sholl and Steckel, but try to follow the math to the best of your ability.
 
+Other Resources
+---------------
+
+[Lynda.com](https://lynda.com) is free for Penn State students. Some relevant video resources for learning Git and Python are
+* `Git Essential Training`_: long (6h), but complete. Has a short introductory quiz to gauge your understanding.
+* `Python 3 Essential Training`_: a good survey of all of the basic Python standard library features. Not much for science or numerical computing explicitly.
+* `Python Design Patterns`_: once you know the basics, covers some common patterns used to design good libraries.
+
 .. _Jupyter Notebooks: http://jupyter.org
+.. _Git Essential Training: https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html
+.. _Python 3 Essential Training: https://www.lynda.com/Python-tutorials/Python-3-Essential-Training/62226-2.html
+.. _Python Design Patters`: https://www.lynda.com/Python-tutorials/Design-Patterns-Python/369187-2.html
+
 
 Schedule
 ========
