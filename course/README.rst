@@ -12,6 +12,9 @@ This course is living and incomplete.
 Resources
 =========
 
+Texts
+-----
+
 The following resources will be used and referred to by authors. See the repo readme for more info on these resources.
 
 * Effective Computation in Physics - Scopatz and Huff
@@ -25,14 +28,11 @@ As you go through Scopatz and Huff, try to do all of the exercises. The code exa
 
 The calculation exercises are not necessary in Sholl and Steckel, but try to follow the math to the best of your ability.
 
-Other Resources
----------------
+Videos
+------
 
-`Lynda.com <http://lynda.psu.edu>`_ is free for Penn State students. Some relevant video resources for learning Git and Python are
-
-* `Git Essential Training`_: long (6h), but complete. Has a short introductory quiz to gauge your understanding.
-* `Python 3 Essential Training`_: a good survey of all of the basic Python standard library features. Not much for science or numerical computing explicitly.
-* `Python Design Patterns`_: once you know the basics, covers some common patterns used to design good libraries.
+YouTube
+~~~~~~~
 
 The PyCon and SciPy annual conferences usually are preceded by good ~3 hour tutorials that are posted on YouTube shortly after the conference.
 They are also great resources for becoming more aware of the things people are using Python for and the great variety of packages that are being developed.
@@ -60,6 +60,14 @@ Tutorials on tools and building packages
 * `Eric Holscher: Documenting your project with Sphinx & Read the Docs <https://youtu.be/hM4I58TA72g>`_ (PyCon 2016)
 * `Titus Brown, Luiz Irber: Creating, building, testing, and documenting a Python project - a hands-on HOWTO <https://youtu.be/SUt3wT43AeM>`_ (PyCon 2016)
 
+Lynda
+~~~~~
+
+`Lynda.com <http://lynda.psu.edu>`_ is free for Penn State students. Some relevant video resources for learning Git and Python are
+
+* `Git Essential Training`_: long (6h), but complete. Has a short introductory quiz to gauge your understanding.
+* `Python 3 Essential Training`_: a good survey of all of the basic Python standard library features. Not much for science or numerical computing explicitly.
+* `Python Design Patterns`_: once you know the basics, covers some common patterns used to design good libraries.
 
 .. _Jupyter Notebooks: http://jupyter.org
 .. _Git Essential Training: https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html
