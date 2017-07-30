@@ -28,7 +28,8 @@ The calculation exercises are not necessary in Sholl and Steckel, but try to fol
 Other Resources
 ---------------
 
-[Lynda.com](https://lynda.com) is free for Penn State students. Some relevant video resources for learning Git and Python are
+`Lynda.com <http://lynda.psu.edu>`_ is free for Penn State students. Some relevant video resources for learning Git and Python are
+
 * `Git Essential Training`_: long (6h), but complete. Has a short introductory quiz to gauge your understanding.
 * `Python 3 Essential Training`_: a good survey of all of the basic Python standard library features. Not much for science or numerical computing explicitly.
 * `Python Design Patterns`_: once you know the basics, covers some common patterns used to design good libraries.
@@ -36,7 +37,7 @@ Other Resources
 .. _Jupyter Notebooks: http://jupyter.org
 .. _Git Essential Training: https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html
 .. _Python 3 Essential Training: https://www.lynda.com/Python-tutorials/Python-3-Essential-Training/62226-2.html
-.. _Python Design Patters`: https://www.lynda.com/Python-tutorials/Design-Patterns-Python/369187-2.html
+.. _Python Design Patterns: https://www.lynda.com/Python-tutorials/Design-Patterns-Python/369187-2.html
 
 
 Schedule
@@ -86,3 +87,6 @@ Tips
 ====
 
 1. If you are stuck on anything for more than 15 minutes, it's probably because whatever you are trying to figure out isn't being presented to you in a way you can understand. This is a great time to ask someone a question!
+
+
+
