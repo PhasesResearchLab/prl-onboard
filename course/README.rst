@@ -34,6 +34,33 @@ Other Resources
 * `Python 3 Essential Training`_: a good survey of all of the basic Python standard library features. Not much for science or numerical computing explicitly.
 * `Python Design Patterns`_: once you know the basics, covers some common patterns used to design good libraries.
 
+The PyCon and SciPy annual conferences usually are preceded by good ~3 hour tutorials that are posted on YouTube shortly after the conference.
+They are also great resources for becoming more aware of the things people are using Python for and the great variety of packages that are being developed.
+Two options for general courses are
+
+* Maxim Belkin: Software Carpentry Scientific Python Course `Part 1 <https://youtu.be/7VO4pUGCcMI>`_ and `Part 2 <https://youtu.be/V5KQxBKtdA8>`_ (SciPy 2017)
+* Alternatively, `Trey Hunner: Hands-On Intro to Python for New Programmers <https://www.youtube.com/watch?v=6zu8lrYn6t8>`_ (PyCon 2017)
+
+For tutorials on specific packages that are of interest to our group, see the following tutorials (ordered roughly from most to least generally useful)
+
+* `David Baumgold: Get Started with Git <https://youtu.be/RrdECLvHW6g>`_ (PyCon 2016)
+* `Dillon Niederhut: Introduction to Numerical Computing with NumPy <https://www.youtube.com/watch?v=lKcwuPnSHIQ>`_ (SciPy 2017)
+* `Ben Root: Anatomy of Matplotlib <https://youtu.be/rARMKS8jE9g>`_ (SciPy 2017)
+* `Ondrej Certik, et al.: Symbolic Compution with Python using SymPy (Beginner) <https://youtu.be/AqnpuGbM6-Q>`_ (SciPy 2016)
+* `Jonathan Rocher: Analyzing and Manipulating Data with Pandas (Beginner) <https://youtu.be/6ohWS7J1hVA>`_ (SciPy 2016)
+* `James Crist: Parallelizing Scientific Python with Dask <https://youtu.be/mbfsog3e5DA>`_ (SciPy 2017)
+* `Chalmer Lowe: bokeh: Data Visualization in Python <https://youtu.be/xId9B1BVusA>`_ (SciPy 2017)
+* `Aaron Meurer et al.: Automatic Code Generation with SymPy <https://youtu.be/5jzIVp6bTy0>`_ (SciPy 2017)
+* `Dillon Niederhut: Cython for Data, Scientists, and Data Scientists <https://youtu.be/FepqwPI6U80>`_ (SciPy 2017)
+* `Mike McKerns: Modern Optimization Methods in Python <https://youtu.be/avRx2cdNZmk>`_ (SciPy 2015)
+
+Tutorials on tools and building packages
+
+* `Michael Tom-Wing, Christie Wilson: Introduction to Unit Testing in Python with Pytest <https://youtu.be/UPanUFVFfzY>`_ (PyCon 2016)
+* `Eric Holscher: Documenting your project with Sphinx & Read the Docs <https://youtu.be/hM4I58TA72g>`_ (PyCon 2016)
+* `Titus Brown, Luiz Irber: Creating, building, testing, and documenting a Python project - a hands-on HOWTO <https://youtu.be/SUt3wT43AeM>`_ (PyCon 2016)
+
+
 .. _Jupyter Notebooks: http://jupyter.org
 .. _Git Essential Training: https://www.lynda.com/Git-tutorials/Git-Essential-Training/100222-2.html
 .. _Python 3 Essential Training: https://www.lynda.com/Python-tutorials/Python-3-Essential-Training/62226-2.html
