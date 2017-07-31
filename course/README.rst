@@ -122,6 +122,7 @@ Tips
 ====
 
 1. If you are stuck on anything for more than 15 minutes, it's probably because whatever you are trying to figure out isn't being presented to you in a way you can understand. This is a great time to ask someone a question!
+2. For a quick reference of most of the Python language syntax in one place, see the `Learn Python in Y minutes page <https://learnxinyminutes.com/docs/python/>`_.
 
 
 

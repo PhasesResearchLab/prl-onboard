@@ -33,6 +33,8 @@ Read the solutions for answers to some FAQ about setting up your environment and
 * `GitHub help pages`_
 * `reStructuredText primer`_
 * `reStructuredText reference`_
+* `Learn reStructuredText in Y minutes <https://learnxinyminutes.com/docs/rst/>`_
+* `Learn git in Y minutes <https://learnxinyminutes.com/docs/git/>`_
 * The `Visual git guide`_ may be too complicated initally, but good to come back to later
 
 .. _Create a GitHub account: https://github.com
