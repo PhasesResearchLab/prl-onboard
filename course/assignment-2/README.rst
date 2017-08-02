@@ -16,16 +16,7 @@ Tasks
 #. Clone this forked pycalphad repo to your computer
 #. Do one of the following:
 
-  a. Update strings to the new style of formatting
-
-    1. Familiarize yourself with the different types of format strings at `pyformat`_. Optionally see the docs for the `old format`_ and the `new format`_.
-    #. Checkout the develop branch, then create and checkout a new branch called 'fix-string-formatting'. This branch should share the same HEAD as the develop branch
-    #. Use ``grep``, the GitHub search at the `pycalphad repository`_, or the search in your IDE for the ``%`` symbols used in formatting strings.
-    #. Update several old style formatting strings to the new style.
-    #. Try to understand what each file is for: e.g. Model.py is for representing the model of each phase as a polynomial with the SymPy library. Don't worry if you don't understand the packages and what is actually going on.
-    #. Stop after you've made several corrections.
-
-  b. Fix typos in the documentation
+  a. Fix typos in the documentation
 
     1. Checkout the develop branch, then create and checkout a new branch called 'fix-typos'. This branch should share the same HEAD as the develop branch
     #. For each file in the pycalphad/pycalphad folder (e.g. Model.py) and sub folders (e.g. core, io)
