@@ -97,21 +97,30 @@ Everything should be able to be completed on any personal computer except perfor
 
    * Scopatz and Huff: chapters 3-6
    * Sholl and Steckel: chapters 1 and 2
+   * Kittel: chapter 1
 
-4. Assignment 4: atomate (Warning: long and requires HPC)
-
-   * Sholl and Steckel: chapter 3
-  
-5. Assignment 5: Introduction to pycalphad
+4. Assignment 4: Introduction to pycalphad
 
    * Scopatz and Huff: chapter 7 and 9
    * xarray_ Overview, FAQ, and do examples
-   * Liu
+   * Liu: chapter 6
+
+5. Assignment 5: Run ESPEI
+
+   * `Richard Otis's Thesis <https://etda.libraries.psu.edu/catalog/s1784k73d>`_: chapter 2 and 3
 
 6. Assignment 6: Make a contriubtion to pycalphad
 
    * Scopatz and Huff: chapters 17-19
    * `reStructuredText reference`_
+
+7. Assignment 7: atomate (Requires HPC)
+
+   * Sholl and Steckel: chapter 3
+  
+8. Assignment 8: prl-workflows (Requires HPC)
+
+   * Liu: chapter 5
 
 .. _official atomate documentation: http://pythonhosted.org/atomate/
 .. _Anaconda: https://www.continuum.io
