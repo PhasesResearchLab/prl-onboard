@@ -36,6 +36,7 @@ Resources
 * `GitHub help pages`_
 * `git - the simple guide`_
 * `git merge vs rebase`_
+* `git remotes <https://betterexplained.com/articles/aha-moments-when-learning-git/#Understand_local_vs_remote>`_ from BetterExplained (several gems on this page)
 * `Git book`_ (advanced)
 
 .. _pycalphad repository: https://github.com/pycalphad/pycalphad
