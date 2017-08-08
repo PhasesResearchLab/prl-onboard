@@ -22,6 +22,8 @@ Tasks
    3. Create a second sandbox database. Name it ``materials-db``. Create a user called ``admin`` and give it a password. Create a user called ``readonly`` and also give it a password, checking the readonly box.
    4. Keep this page, usernames, and passwords handy because you will use them shortly. If you go to the main page of your database (the one with the tabs of "Collections", "Users", "Stats", etc. in the middle of the page) the credentials you will need are above the tab section. You'll see connection information such as an address of ``ds035177.mlab.com:35177/materials-db``. The host name you will connect to would be ``ds035177.mlab.com`` and the port would be ``35177``. The db name would be ``materials-db``. 
 
+**COMPLETE THE FOLLOWING ON A SUPERCOMPUTING CLUSTER**
+
 2. Read the homepage at the `atomate documentation <https://hackingmaterials.github.io/atomate/index.html>`_
 3. Work through `the installation <https://hackingmaterials.github.io/atomate/installation.html>`_. Do it by hand the first time as it will help you be able to fix your own problems. Later you can use the semi-automated installer mentioned in the text.
 4. Do the `first tutorial <https://hackingmaterials.github.io/atomate/running_workflows.html>`_
