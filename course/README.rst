@@ -57,7 +57,7 @@ Everything should be able to be completed on any personal computer except perfor
 8. Assignment 8: prl-workflows (Requires HPC)
 
    * Liu: chapter 5
-   * A. van de Walle, et al. Software tools for high-throughput CALPHAD from first-principles data, Calphad. 58 (2017) 70–81. doi:10.1016/j.calphad.2017.05.005.
+   * van de Walle, et al. Software tools for high-throughput CALPHAD from first-principles data, Calphad. 58 (2017) 70–81. doi:10.1016/j.calphad.2017.05.005.
 
 
 Resources
