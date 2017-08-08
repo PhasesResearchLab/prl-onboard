@@ -1,5 +1,5 @@
 ===============================================
-Assignment 6: Make a contriubition to pycalphad
+Assignment 6: Make a contribution to pycalphad
 ===============================================
 
 Objectives

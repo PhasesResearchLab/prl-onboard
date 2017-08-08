@@ -44,7 +44,7 @@ Everything should be able to be completed on any personal computer except perfor
 
    * `Richard Otis's Thesis <https://etda.libraries.psu.edu/catalog/s1784k73d>`_: chapter 2 and 3
 
-6. Assignment 6: Make a contriubtion to pycalphad
+6. Assignment 6: Make a contribution to pycalphad
 
    * Scopatz and Huff: chapters 17-19
    * `reStructuredText reference`_
