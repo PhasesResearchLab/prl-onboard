@@ -1,5 +1,5 @@
 ================================
-Assignment 5: Installing atomate
+Assignment 7: Installing atomate
 ================================
 
 Objectives
@@ -15,12 +15,12 @@ Objectives
 Tasks
 =====
 
-1. Set up a database
+1. Set up a database on mLab
 
    1. Create an account at https://mlab.com
    2. Create a sandbox database. Name it ``fireworks-db``. Create a user called ``admin`` and give it a password. I suggest using a random string generator as **it will be stored in plain text.**.
    3. Create a second sandbox database. Name it ``materials-db``. Create a user called ``admin`` and give it a password. Create a user called ``readonly`` and also give it a password, checking the readonly box.
-   4. Keep this page, usernames, and passwords handy because you will use them shortly.
+   4. Keep this page, usernames, and passwords handy because you will use them shortly. If you go to the main page of your database (the one with the tabs of "Collections", "Users", "Stats", etc. in the middle of the page) the credentials you will need are above the tab section. You'll see connection information such as an address of ``ds035177.mlab.com:35177/materials-db``. The host name you will connect to would be ``ds035177.mlab.com`` and the port would be ``35177``. The db name would be ``materials-db``. 
 
 2. Read the homepage at the `atomate documentation <https://hackingmaterials.github.io/atomate/index.html>`_
 3. Work through `the installation <https://hackingmaterials.github.io/atomate/installation.html>`_. Do it by hand the first time as it will help you be able to fix your own problems. Later you can use the semi-automated installer mentioned in the text.
@@ -30,5 +30,5 @@ Tasks
 
 Resources
 =========
-
 - Mathew, K. et al. Atomate: A high-level interface to generate, execute, and analyze computational materials science workflows. Comput. Mater. Sci. 139, 140–152 (2017). `Atomate paper <https://doi.org/10.1016/j.commatsci.2017.07.030>`_
+
