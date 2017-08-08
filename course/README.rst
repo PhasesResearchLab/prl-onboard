@@ -9,6 +9,56 @@ This course should guide you from being completely new to computational thermody
 
 This course is living and incomplete.
 
+Schedule
+========
+
+The schedule is assignment based. You should proceed by completing the assignments in order and doing the required tasks for each assignment
+
+Initially, the course will be entirely Python-based, but will blend into CALPHAD and DFT.
+
+Everything should be able to be completed on any personal computer except performing DFT calculations with atomate, which currently requires the use of VASP. Because atomate is run on HPCs through a queue, usage will be limited to a single assignment and other DFT assignments will provide raw data as if they were from DFT. Other usage information is directed to the `official atomate documentation`_.
+
+1. Assignment 1: Getting started in Git
+
+   * Scopatz and Huff: chapter 1 and 2 (and install Python, preferably Anaconda_)
+   * Scopatz and Huff: chapters 15, 16
+
+2. Assignment 2: Contributing to open-source software
+
+   * Scopatz and Huff: chapter 21
+
+3. Assignment 3: Introduction to pymatgen
+
+   * Scopatz and Huff: chapters 3-6
+   * Sholl and Steckel: chapters 1 and 2
+   * Kittel: chapter 1
+
+4. Assignment 4: Introduction to pycalphad
+
+   * Scopatz and Huff: chapter 7 and 9
+   * `xarray <http://xarray.pydata.org>`_ Overview, FAQ, and do examples
+   * Liu: chapter 6
+
+5. Assignment 5: Run ESPEI
+
+   * `Richard Otis's Thesis <https://etda.libraries.psu.edu/catalog/s1784k73d>`_: chapter 2 and 3
+
+6. Assignment 6: Make a contriubtion to pycalphad
+
+   * Scopatz and Huff: chapters 17-19
+   * `reStructuredText reference`_
+
+7. Assignment 7: atomate (Requires HPC)
+
+   * Sholl and Steckel: chapter 3
+   * Mathew, K. et al. Atomate: A high-level interface to generate, execute, and analyze computational materials science workflows. Comput. Mater. Sci. 139, 140–152 (2017). `Atomate paper <https://doi.org/10.1016/j.commatsci.2017.07.030>`_
+  
+8. Assignment 8: prl-workflows (Requires HPC)
+
+   * Liu: chapter 5
+   * A. van de Walle, et al. Software tools for high-throughput CALPHAD from first-principles data, Calphad. 58 (2017) 70–81. doi:10.1016/j.calphad.2017.05.005.
+
+
 Resources
 =========
 
@@ -74,57 +124,8 @@ Lynda
 .. _Python 3 Essential Training: https://www.lynda.com/Python-tutorials/Python-3-Essential-Training/62226-2.html
 .. _Python Design Patterns: https://www.lynda.com/Python-tutorials/Design-Patterns-Python/369187-2.html
 
-
-Schedule
-========
-
-The schedule is assignment based. You should proceed by completing the assignments in order and doing the required tasks for each assignment
-
-Initially, the course will be entirely Python-based, but will blend into CALPHAD and DFT.
-
-Everything should be able to be completed on any personal computer except performing DFT calculations with atomate, which currently requires the use of VASP. Because atomate is run on HPCs through a queue, usage will be limited to a single assignment and other DFT assignments will provide raw data as if they were from DFT. Other usage information is directed to the `official atomate documentation`_.
-
-1. Assignment 1: Getting started in Git
-
-   * Scopatz and Huff: chapter 1 and 2 (and install Python, preferably Anaconda_)
-   * Scopatz and Huff: chapters 15, 16
-
-2. Assignment 2: Contributing to open-source software
-
-   * Scopatz and Huff: chapter 21
-
-3. Assignment 3: Introduction to pymatgen
-
-   * Scopatz and Huff: chapters 3-6
-   * Sholl and Steckel: chapters 1 and 2
-   * Kittel: chapter 1
-
-4. Assignment 4: Introduction to pycalphad
-
-   * Scopatz and Huff: chapter 7 and 9
-   * xarray_ Overview, FAQ, and do examples
-   * Liu: chapter 6
-
-5. Assignment 5: Run ESPEI
-
-   * `Richard Otis's Thesis <https://etda.libraries.psu.edu/catalog/s1784k73d>`_: chapter 2 and 3
-
-6. Assignment 6: Make a contriubtion to pycalphad
-
-   * Scopatz and Huff: chapters 17-19
-   * `reStructuredText reference`_
-
-7. Assignment 7: atomate (Requires HPC)
-
-   * Sholl and Steckel: chapter 3
-  
-8. Assignment 8: prl-workflows (Requires HPC)
-
-   * Liu: chapter 5
-
 .. _official atomate documentation: http://pythonhosted.org/atomate/
 .. _Anaconda: https://www.continuum.io
-.. _xarray: http://xarray.pydata.org
 .. _reStructuredText reference: http://restructuredtext.readthedocs.io
 
 Tips
