@@ -37,6 +37,7 @@ Everything should be able to be completed on any personal computer except perfor
 
    * Scopatz and Huff: chapter 7 and 9
    * `xarray <http://xarray.pydata.org>`_ Overview, FAQ, and do examples
+   * Porter and Easterling: chapter 1 (if you are new or want to refresh on alloy thermodynamics)
    * Liu: chapter 6
 
 5. Assignment 5: Run ESPEI

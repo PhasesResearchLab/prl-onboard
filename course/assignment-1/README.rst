@@ -30,6 +30,7 @@ Resources
 
 Read the solutions for answers to some FAQ about setting up your environment and commiting with git
 
+* `Linux Journey <https://linuxjourney.com/lesson/the-shell>`_ Lessons on using the shell. Good reference for basic shell operations.
 * `GitHub help pages`_
 * `reStructuredText primer`_
 * `reStructuredText reference`_
