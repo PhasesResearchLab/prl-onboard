@@ -24,7 +24,7 @@ Tasks
     #. Try to understand what each file is for: e.g. Model.py is for representing the model of each phase as a polynomial with the SymPy library. Don't worry if you don't understand the packages and what is actually going on.
     #. Stop when you've found a couple typos.
 
-5. Commit and push your changes to your fork. Use `good messages`_ and follow the pycalphad conventions by prepending the subject with the correct tag, ``DOC:``, ``FIX:``, ``ENH:``...
+5. Commit and push your changes to your fork. Use `good messages`_ by including the *what* in the title and *why* in the body. Follow the pycalphad conventions by prepending the subject with the correct tag, ``DOC:``, ``FIX:``, ``ENH:``...
 #. Open a pull request on GitHub from your branch onto the pycalphad develop branch
 #. Use GitHub to `request <https://help.github.com/articles/requesting-a-pull-request-review/>`_ @bocklund to review the PR
 #. Fix any feedback with either new commits or by changing the old ones as appropriate. For changing your old commits, you can either use `git commit --amend` or commit regularly and use interactive rebasing to squash additional commits together 
