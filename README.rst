@@ -16,7 +16,7 @@ What we do
 
 Before you join PRL and/or to get an idea of our work, please read the following articles:
 
-* Liu, Z. K. First-Principles Calculations and CALPHAD Modeling of Thermodynamics. Calphad 30, 517–534 (2009). `10.1007/s11669-009-9570-6`_
+* Liu, Z. K. First-Principles Calculations and CALPHAD Modeling of Thermodynamics. Journal of Phase Equilibria and Diffusion 30, 517–534 (2009). `10.1007/s11669-009-9570-6`_
 
 
 .. _10.1007/s11669-009-9570-6: http://dx.doi.org/10.1007/s11669-009-9570-6
@@ -34,7 +34,7 @@ Books
 * Quantum physics background: `Griffiths`
 * First-principles DFT calcuations: Sholl and Steckel (chapters 1-3)
 * Thermodynamics reference: Hillert
-* CALPHAD method: Liu
+* CALPHAD method: `Computational Thermodynamics of Materials - Liu and Wang (2016) <https://www.amazon.com/Computational-Thermodynamics-Materials-Zi-Kui-Liu/dp/0521198968/>`_
 
 .. _Effective Computation in Physics - Scopatz and Huff (2015): http://physics.codes
 .. _Griffiths: https://www.amazon.com/Introduction-Quantum-Mechanics-David-Griffiths/dp/0131118927
