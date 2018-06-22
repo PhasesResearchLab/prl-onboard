@@ -21,7 +21,7 @@ Tasks
 5. Create a pull request. Use GitHub to assign your mentor as the reviewer.
 6. Close the issue after the pull request is merged.
 
-.. _pycalphad issue tracker: https://github.com/pycalphad/issues
+.. _pycalphad issue tracker: http://github.com/pycalphad/pycalphad/issues/
 
 
 Resources
